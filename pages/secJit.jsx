@@ -29,10 +29,11 @@ const crypto = () => {
           <p>
             This page is the latest Security Page I've managing with Jit.io and
             the Senior Full Stack Developer who made this is{" "}
-            <a href="https://www.linkedin.com/in/jushua-valencia/">
-              {" "}
-              Jushua Valencia{" "}
-            </a>{" "}
+            <span className="@apply text-[#5651e5] font-bold underline">
+              <a href="https://www.linkedin.com/in/jushua-valencia/">
+                Jushua Valencia
+              </a>
+            </span>
             . This project is to aim to produce a page that gather all about the
             security within the DevSecOps.
           </p>
