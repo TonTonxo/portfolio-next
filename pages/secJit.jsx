@@ -27,8 +27,8 @@ const crypto = () => {
           <p>Project</p>
           <h2>Overview</h2>
           <p>
-            This page is the latest Security Page I've managing with Jit.io and
-            the Senior Full Stack Developer who made this is{" "}
+            This page is the latest Security Page I &apos;ve managing with
+            Jit.io and the Senior Full Stack Developer who made this is{" "}
             <span className="@apply text-[#5651e5] font-bold underline">
               <a href="https://www.linkedin.com/in/jushua-valencia/">
                 Jushua Valencia

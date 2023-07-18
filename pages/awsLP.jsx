@@ -27,9 +27,9 @@ const crypto = () => {
           <p>Project</p>
           <h2>Overview</h2>
           <p>
-            This page is the latest Landing Page I've done with Jit.io using
-            Webflow also integrate a bit of external scripting to implement the
-            HubSpot Calendar.
+            This page is the latest Landing Page I&apos;ve done with Jit.io
+            using Webflow also integrate a bit of external scripting to
+            implement the HubSpot Calendar.
           </p>
           <a href="https://www.jit.io/aws-ftr" target="_blank" rel="noreferrer">
             <button className="px-8 py-2 mt-4">Live Page</button>
