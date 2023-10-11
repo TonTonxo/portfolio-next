@@ -1,6 +1,6 @@
 import Image from "next/image";
 import React from "react";
-import sastImage from "../public/assets/projects/bhatLP.png";
+import sastImage from "../public/assets/projects/bhLP.png";
 import { RiRadioButtonFill } from "react-icons/ri";
 import Link from "next/link";
 
