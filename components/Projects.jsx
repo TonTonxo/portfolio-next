@@ -7,6 +7,7 @@ import secImage from "../public/assets/projects/securityJit.png";
 import primeImage from "../public/assets/projects/PrimeLP.png";
 import bhatImage from "../public/assets/projects/bhLP.png";
 import jitImage from "../public/assets/projects/jitPic.png";
+import agentI from "../public/assets/projects/agentManila.png";
 import ProjectItem from "./ProjectItem";
 
 const Projects = () => {
@@ -18,6 +19,12 @@ const Projects = () => {
         </p>
         <h2 className="py-4">Recent Work</h2>
         <div className="grid md:grid-cols-2 gap-8">
+          <ProjectItem
+            title="Agent Manila Landing Page"
+            backgroundImg={agentI}
+            projectUrl="/agentM"
+            tech="NextJS"
+          />
           <ProjectItem
             title="Jit Website"
             backgroundImg={jitImage}

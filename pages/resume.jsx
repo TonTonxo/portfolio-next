@@ -90,7 +90,7 @@ const resume = () => {
             <span className="px-2">|</span>Freelance
           </p>
           <p className="py-1 italic">
-            Junior Full Stack Developer & Webflow Developer (2023 Feb - Current)
+            Junior Full Stack Developer & Webflow Developer (2023 Feb - 2023 November)
           </p>
           <ul className="list-disc list-outside px-7 py-1 leading-relaxed">
             <li>
