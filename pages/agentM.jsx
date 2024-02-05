@@ -31,7 +31,7 @@ const crypto = () => {
           <h2>Overview</h2>
           <p>
             This project is made solely for the purpose of generating Landing Pages for the Agents of BetMNL,
-            this way the Facebook won't banned the links they use to attract players for their casino. By this
+            this way the Facebook won&apos;t banned the links they use to attract players for their casino. By this
             they can use and track the traction of user by the agents. There are 12 total landing pages that is
             already deployed and a live pages right now and will come up and list for atleast 100 to 200 landing pages.
           </p>
