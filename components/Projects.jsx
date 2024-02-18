@@ -8,6 +8,7 @@ import primeImage from "../public/assets/projects/PrimeLP.png";
 import bhatImage from "../public/assets/projects/bhLP.png";
 import jitImage from "../public/assets/projects/jitPic.png";
 import agentI from "../public/assets/projects/agentManila.png";
+import valentinesP from "../public/assets/projects/valentinesP.png";
 import ProjectItem from "./ProjectItem";
 
 const Projects = () => {
@@ -32,7 +33,7 @@ const Projects = () => {
             tech="Webflow"
           />
         </div>
-        <h2 className="py-4">Landing Page Work</h2>
+        <h2 className="py-4">Landing Page</h2>
         <div className="grid md:grid-cols-2 gap-8">
           <ProjectItem
             title="Jit Sast Landing Page"
@@ -59,12 +60,27 @@ const Projects = () => {
             tech="ReactJS"
           />
         </div>
-        <h2 className="py-4">Next JS Work</h2>
+        <h2 className="py-4">NextJS</h2>
         <div className="grid md:grid-cols-2 gap-8">
           <ProjectItem
             title="Jit Security Page"
             backgroundImg={secImage}
             projectUrl="/secJit"
+            tech="Next Js"
+          />
+          <ProjectItem
+            title="Agent Manila Landing Page"
+            backgroundImg={agentI}
+            projectUrl="/agentM"
+            tech="NextJS"
+          />
+        </div>
+        <h2 className="py-4">Personal Project</h2>
+        <div className="grid md:grid-cols-2 gap-8">
+          <ProjectItem
+            title="Be My Valentines"
+            backgroundImg={valentinesP}
+            projectUrl="/valentineP"
             tech="Next Js"
           />
         </div>
