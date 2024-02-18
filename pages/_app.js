@@ -1,6 +1,6 @@
 // pages/_app.js
 import { useEffect } from 'react';
-import { initGA, logPageView } from '../path-to-your-analytics-file'; // Adjust the path to your analytics file
+import { initGA, logPageView } from './analytics'; // Adjust the path to your analytics file
 import Navbar from '../components/Navbar';
 import '../styles/globals.css';
 
