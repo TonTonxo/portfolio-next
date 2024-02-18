@@ -4,7 +4,7 @@ import Contact from "../components/Contact";
 import Main from "../components/Main";
 import Projects from "../components/Projects";
 import Skills from "../components/Skills";
-import { GoogleAnalytics } from '@next/third-parties/google'
+
 
 
 export default function Home() {
@@ -17,7 +17,6 @@ export default function Home() {
           content="I’m a front-end web developer specializing in building (and occasionally designing) exceptional digital experiences."
         />
         <link rel="icon" href="/tonFav.png" />
-        <GoogleAnalytics gaId="G-0PE0RPD6G8" />
       </Head>
       <Main />
       <About />
